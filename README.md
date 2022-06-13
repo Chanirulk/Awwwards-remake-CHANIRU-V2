@@ -3,7 +3,7 @@ Awwwards remake | CHANIRU V2  REACT JS CSS3 HTML5
 
 This Website was crafted by - @chaniru.lk - instagram
 
-![Scrrenshot](./src/components/assets/screenshot.png)
+![Screenshot](./src/assets/screenshot.png)
 
 # About the AUTHOR
 
